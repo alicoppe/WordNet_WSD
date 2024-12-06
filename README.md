@@ -45,5 +45,5 @@ The Google Gemini model achieved the highest test accuracy, demonstrating the po
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/wsd-project.git
-   cd wsd-project
+   git clone https://github.com/alicoppe/WordNet_WSD.git
+   cd WordNet_WSD
